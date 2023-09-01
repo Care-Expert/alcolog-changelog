@@ -1,1 +1,2 @@
-# alcolog-changelog
+# 銓勝酒測平台
+

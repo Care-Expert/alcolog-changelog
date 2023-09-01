@@ -1,0 +1,4 @@
+node_modules/
+*/node_modules/
+dist/report.html
+.DS_Store
